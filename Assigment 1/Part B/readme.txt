@@ -17,6 +17,7 @@ HTML5 Tags Used:
 <nav>
 <section>
 <video>
+<audio>
 <source>
 <article>
 <aside>
