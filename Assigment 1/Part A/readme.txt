@@ -14,9 +14,11 @@ Create 2 pages website for a coffee shop,Travel or anything by using of below HT
 Description:
 Used Favicon, Table, Form, Images, Hyperlink and Button tags to create a coffee shop/café website
 
+This page is about a coffee shop names beyond coffee 
+
 The page consists of three pages in total
 1. Home Page
-2. Menu Page
+2. Prices Page
 3. Contact Page
 
 HTML5 Tags Used:
