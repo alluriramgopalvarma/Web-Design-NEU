@@ -1,0 +1,26 @@
+label {
+  float: left;
+  width: 150px;
+}
+#container {
+  width: 1000px;
+  margin: auto;
+  background-color: beige;
+}
+main {
+  padding: 50px;
+}
+
+/* #chkboxDiv{
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+} */
+
+table,
+th,
+td {
+  border: 2px solid black;
+  text-align: center;
+}
