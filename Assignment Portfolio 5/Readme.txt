@@ -8,8 +8,7 @@ Topic: Portfolio Website with Bootstrap
 10 Bootstrap Components:
 Ref: https://getbootstrap.com/docs/4.1/components
 
-Portfolio url :  https://alluiramgopalvarma.github.io
-
+Portfolio url :  https://alluriramgopalvarma.github.io/
 
 components used
 alerts
